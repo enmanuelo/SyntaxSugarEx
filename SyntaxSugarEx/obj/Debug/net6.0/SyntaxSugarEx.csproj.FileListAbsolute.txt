@@ -1,0 +1,15 @@
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/bin/Debug/net6.0/SyntaxSugarEx
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/bin/Debug/net6.0/SyntaxSugarEx.deps.json
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/bin/Debug/net6.0/SyntaxSugarEx.runtimeconfig.json
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/bin/Debug/net6.0/SyntaxSugarEx.dll
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/bin/Debug/net6.0/SyntaxSugarEx.pdb
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.csproj.AssemblyReference.cache
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.AssemblyInfoInputs.cache
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.AssemblyInfo.cs
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.csproj.CoreCompileInputs.cache
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.dll
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/refint/SyntaxSugarEx.dll
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.pdb
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/SyntaxSugarEx.genruntimeconfig.cache
+/Users/enmanueldiaz/Desktop/repos/SyntaxSugarEx/SyntaxSugarEx/obj/Debug/net6.0/ref/SyntaxSugarEx.dll
